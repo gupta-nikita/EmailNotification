@@ -2,8 +2,12 @@ EmailNotification
 =================
 
 Database Connection - com.ebay.email.dao
-Service - com.ebay.email.service
-Controller - com.ebay.email
+
+
+Service - com.ebay.email.service/n
+
+
+Controller - com.ebay.email/n
 
 
 
@@ -20,7 +24,7 @@ create table notifications(
 Similarly we can have 'Users' and 'Products' tables to extract user and product details.
 
 Users Schema :
-create table Users(
+create table Users( 
     user_id:int
     name:String
     email:String
