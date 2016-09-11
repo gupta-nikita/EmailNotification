@@ -21,18 +21,7 @@ Constraits -
 Use NoSQL database MongoDB to store user activity
 
 
-
-
-Database Connection - com.ebay.email.dao
-
-
-Service - com.ebay.email.service/n
-
-
-Controller - com.ebay.email/n
-
-
-
+--------------------------------------------------------------------------------------------------------------
 
 Notification Schema : 
 create table notifications(
